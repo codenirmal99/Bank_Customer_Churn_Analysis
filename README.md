@@ -8,20 +8,18 @@
 
 ###Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "Bank Customer Dataset.xlsx" file, containing detailed information about each customer of the bank.
+The primary dataset used for this analysis is the "Bank Customer Dataset.xlsx" file, containing detailed information about each customer of the bank.
 
 ###Tools
-Excel - Data Cleaning
-Download here
-SQL Server - Data Analysis
-PowerBI - Creating reports
+Excel - Data Cleaning [Download here](https://www.microsoft.com/en-in/microsoft-365/excel)
+Power BI - Data Analysis & Creating Reports [Download here](https://powerbi.microsoft.com/en-us/downloads/)
 
-###Data Cleaning/Preparation
+###Data Preparation
 In the initial data preparation phase, we performed the following tasks:
 
 Data loading and inspection.
 Handling missing values.
-Data cleaning and formatting.
+Data transforming and formatting.
 
 ###Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
@@ -29,11 +27,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 What is the overall sales trend?
 Which products are top sellers?
 What are the peak sales periods?
-###Data Analysis
-Include some interesting code/features worked with
-
-SELECT * FROM table1
-WHERE cond = 2;
 
 ###Results/Findings
 The analysis results are summarized as follows:
