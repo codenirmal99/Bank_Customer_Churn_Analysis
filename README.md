@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis & Prevention using Power BI
+# Bank Customer Churn Analysis using Power BI
 
 ## Table of Contents
 
